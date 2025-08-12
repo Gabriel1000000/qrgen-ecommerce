@@ -1,7 +1,7 @@
 import prompt from "prompt";
 import createQRCode from "./service/qr-code/create.js";
 import createPassword from "./service/password/create.js";
-import mainPrompt from "./prompts/prompt-main.js"
+import mainPrompt from "./prompts-schema/prompt-schema-main.js"
 
 
 async function main() {
